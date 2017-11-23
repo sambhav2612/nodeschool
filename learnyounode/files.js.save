@@ -1,0 +1,13 @@
+var fs = require('fs');
+
+var path = process.argv[2];
+
+var buf_obj = fs.readFileSync(path);
+
+var str = buf_obj.toString();
+
+var arr = str.split('\n');
+
+var counter = 0;
+
+.log(counter);

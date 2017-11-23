@@ -1,0 +1,20 @@
+{
+  "name": "@sambhav2612/pkg",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "sambhav jain",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambhav2612/nodeschool/"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "description": "npm package",
+  "dependencies": {}
+}
